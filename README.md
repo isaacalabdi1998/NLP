@@ -49,7 +49,14 @@ To install the emoji library using pip
 
 
 ###  Positive reviews:
-![Negative Emoji](https://github.com/isaacalabdi1998/NLP/blob/main/Emojis/negative.png)
+![Example Image](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/1.PNG)
+
+![Example Image](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/2.PNG)
+
+
+![Example Image](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/3.PNG)
+
+
 
 
 
