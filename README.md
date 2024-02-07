@@ -49,18 +49,8 @@ To install the emoji library using pip
 
 
 ###  Positive reviews:
-![Example Image](https://github.com/yourusername/yourrepository/blob/main/example_image.png)
+![Negative Emoji](https://github.com/isaacalabdi1998/NLP/blob/main/Emojis/negative.png)
 
-
-
-
-
-###  Neutral reviews:
-![Logo]([path](https://github.com/isaacalabdi1998/NLP/blob/main/Examples/2.PNG))
-
-
-###  Negative reviews:
-!![Logo]([path](https://github.com/isaacalabdi1998/NLP/blob/main/Examples/3.PNG))
 
 
 
