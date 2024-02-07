@@ -48,11 +48,9 @@ To install the emoji library using pip
 
 
 
-
-![Logo](path)
-
 ###  Positive reviews:
-![Alt Text]([url_of_your_image](https://github.com/isaacalabdi1998/NLP/blob/main/Examples/1.PNG))
+![Example Image](https://github.com/yourusername/yourrepository/blob/main/example_image.png)
+
 
 
 
