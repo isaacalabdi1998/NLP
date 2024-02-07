@@ -49,12 +49,15 @@ To install the emoji library using pip
 
 
 ###  Positive reviews:
-![Example Image](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/1.PNG)
-
-![Negative Emoji](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/2.PNG)
+![Positive](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/1.PNG)
 
 
-![Negative reviews](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/3.PNG)
+###  Neutral reviews:
+![Neutral](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/2.PNG)
+
+
+###  Negative reviews:
+![Negative](https://github.com/isaacalabdi1998/NLP/raw/main/Examples/3.PNG)
 
 
 
