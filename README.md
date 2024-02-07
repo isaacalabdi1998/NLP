@@ -67,6 +67,12 @@ To install the emoji library using pip
 
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at isaac.alabdi2017@gmail.com
+
+
+
 
 
 
